@@ -1,0 +1,3153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="set_id" attr.type="long"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="community" attr.type="long"/>
+<graph edgedefault="directed"><node id="BomberBoy">
+  <data key="d0">20</data>
+</node>
+<node id="Circa | seantendre">
+  <data key="d0">23</data>
+</node>
+<node id="Bugbear">
+  <data key="d0">15</data>
+</node>
+<node id="SmokingSeabass">
+  <data key="d0">19</data>
+</node>
+<node id="ICEbox | Dinlee">
+  <data key="d0">24</data>
+</node>
+<node id="Liquid | Nephew">
+  <data key="d0">10</data>
+</node>
+<node id="T1 | Oil King">
+  <data key="d0">1</data>
+</node>
+<node id="Jebailey">
+  <data key="d0">18</data>
+</node>
+<node id="iDom">
+  <data key="d0">0</data>
+</node>
+<node id="Rekterio">
+  <data key="d0">1</data>
+</node>
+<node id="WBG RB | MenaRD">
+  <data key="d0">6</data>
+</node>
+<node id="YungTate">
+  <data key="d0">5</data>
+</node>
+<node id="VARREL | Mago">
+  <data key="d0">9</data>
+</node>
+<node id="UA | Bass">
+  <data key="d0">11</data>
+</node>
+<node id="Weird | sans.">
+  <data key="d0">2</data>
+</node>
+<node id="Toph The Goat">
+  <data key="d0">0</data>
+</node>
+<node id="RRQ | Takamura">
+  <data key="d0">16</data>
+</node>
+<node id="Riddles">
+  <data key="d0">7</data>
+</node>
+<node id="Dustyfeets">
+  <data key="d0">9</data>
+</node>
+<node id="FSP | DJ Nova">
+  <data key="d0">21</data>
+</node>
+<node id="GG | Xian">
+  <data key="d0">19</data>
+</node>
+<node id="Olipop">
+  <data key="d0">0</data>
+</node>
+<node id="dinotail">
+  <data key="d0">2</data>
+</node>
+<node id="Threeyes">
+  <data key="d0">15</data>
+</node>
+<node id="bug club | cubby">
+  <data key="d0">20</data>
+</node>
+<node id="RTS! | SpencertheSavage">
+  <data key="d0">10</data>
+</node>
+<node id="Falcons | Chris Wong">
+  <data key="d0">24</data>
+</node>
+<node id="DFM/PWS | GO1">
+  <data key="d0">0</data>
+</node>
+<node id="Bandits | Caba">
+  <data key="d0">20</data>
+</node>
+<node id="MTS | Wanheda">
+  <data key="d0">21</data>
+</node>
+<node id="SL | ColdWeatherr">
+  <data key="d0">17</data>
+</node>
+<node id="Samurai">
+  <data key="d0">8</data>
+</node>
+<node id="Spins | Unshorn">
+  <data key="d0">1</data>
+</node>
+<node id="MH | KOREYTHEDRAGON">
+  <data key="d0">6</data>
+</node>
+<node id="StreetDemons | HereToHaveFunn">
+  <data key="d0">16</data>
+</node>
+<node id="hutch00">
+  <data key="d0">22</data>
+</node>
+<node id="MCFGC | harms">
+  <data key="d0">3</data>
+</node>
+<node id="Bahn Mi">
+  <data key="d0">10</data>
+</node>
+<node id="DK | LegendaryJiggXV">
+  <data key="d0">3</data>
+</node>
+<node id="IBUSHIGIN | Yanai">
+  <data key="d0">15</data>
+</node>
+<node id="AG/PWS | Qiuqiu">
+  <data key="d0">22</data>
+</node>
+<node id="LetalisVenator">
+  <data key="d0">7</data>
+</node>
+<node id="ZETA | Yamaguchi">
+  <data key="d0">24</data>
+</node>
+<node id="WLF | KillJoy">
+  <data key="d0">3</data>
+</node>
+<node id="Karmine Corp | Kilzyou">
+  <data key="d0">22</data>
+</node>
+<node id="AEGIS | Mister Crimson">
+  <data key="d0">15</data>
+</node>
+<node id="REJECT ROHTOZ! | Tokido">
+  <data key="d0">7</data>
+</node>
+<node id="HMB | Addrak">
+  <data key="d0">18</data>
+</node>
+<node id="REJECT | Akira">
+  <data key="d0">3</data>
+</node>
+<node id="SRM | Dougie">
+  <data key="d0">18</data>
+</node>
+<node id="DFM | Itabashi Zangief">
+  <data key="d0">1</data>
+</node>
+<node id="Truly | Mangocopter">
+  <data key="d0">17</data>
+</node>
+<node id="Mono">
+  <data key="d0">22</data>
+</node>
+<node id="Ryan Hart">
+  <data key="d0">12</data>
+</node>
+<node id="keesby">
+  <data key="d0">4</data>
+</node>
+<node id="Weavi">
+  <data key="d0">11</data>
+</node>
+<node id="DaFeetLee">
+  <data key="d0">20</data>
+</node>
+<node id="Truly | GalaxyBrAn">
+  <data key="d0">6</data>
+</node>
+<node id="JCampos">
+  <data key="d0">8</data>
+</node>
+<node id="Spright">
+  <data key="d0">7</data>
+</node>
+<node id="Raize">
+  <data key="d0">21</data>
+</node>
+<node id="Kanme | Tao">
+  <data key="d0">9</data>
+</node>
+<node id="Street Demons | DonShark">
+  <data key="d0">24</data>
+</node>
+<node id="BigMacCombo98">
+  <data key="d0">18</data>
+</node>
+<node id="IGZIST | 小路KOG">
+  <data key="d0">0</data>
+</node>
+<node id="Falcons X PWS | DCQ">
+  <data key="d0">0</data>
+</node>
+<node id="AFAS | Chris D">
+  <data key="d0">23</data>
+</node>
+<node id="Zenith">
+  <data key="d0">16</data>
+</node>
+<node id="WFG | ChaosDunk">
+  <data key="d0">9</data>
+</node>
+<node id="VARREL | Mizuha">
+  <data key="d0">17</data>
+</node>
+<node id="4o4 | Pulse | CamPaine">
+  <data key="d0">8</data>
+</node>
+<node id="Revilo">
+  <data key="d0">4</data>
+</node>
+<node id="ILLICIT | Uriel Velorio">
+  <data key="d0">24</data>
+</node>
+<node id="DFM | John Takeuchi">
+  <data key="d0">10</data>
+</node>
+<node id="XxHawkTuahxX">
+  <data key="d0">9</data>
+</node>
+<node id="mozz">
+  <data key="d0">24</data>
+</node>
+<node id="Moe">
+  <data key="d0">16</data>
+</node>
+<node id="RTC | Brandon!">
+  <data key="d0">21</data>
+</node>
+<node id="2Game | Blaz">
+  <data key="d0">0</data>
+</node>
+<node id="IG | NJIT | Ortega">
+  <data key="d0">20</data>
+</node>
+<node id="PM | Kuma">
+  <data key="d0">10</data>
+</node>
+<node id="Virtus.Pro | Psycho">
+  <data key="d0">5</data>
+</node>
+<node id="REZ | big mo">
+  <data key="d0">5</data>
+</node>
+<node id="gr8stalin's mustache!">
+  <data key="d0">12</data>
+</node>
+<node id="Burger Man">
+  <data key="d0">20</data>
+</node>
+<node id="Sympo_">
+  <data key="d0">9</data>
+</node>
+<node id="King Scrub">
+  <data key="d0">15</data>
+</node>
+<node id="ThaRuffProphet">
+  <data key="d0">4</data>
+</node>
+<node id="GNT4 | Skeet">
+  <data key="d0">7</data>
+</node>
+<node id="ZETA | Momochi">
+  <data key="d0">12</data>
+</node>
+<node id="KSG | Vxbao">
+  <data key="d0">17</data>
+</node>
+<node id="Ohgrr">
+  <data key="d0">19</data>
+</node>
+<node id="space rat">
+  <data key="d0">7</data>
+</node>
+<node id="rave">
+  <data key="d0">21</data>
+</node>
+<node id="Skeezer">
+  <data key="d0">3</data>
+</node>
+<node id="FREE PALESTINE | Zaidi">
+  <data key="d0">23</data>
+</node>
+<node id="4H Tim">
+  <data key="d0">7</data>
+</node>
+<node id="広島TEAM iXA/HT | ACQUA">
+  <data key="d0">21</data>
+</node>
+<node id="4Keya! | SMOOTHMOVES22">
+  <data key="d0">8</data>
+</node>
+<node id="Chipun | BP Amoco">
+  <data key="d0">0</data>
+</node>
+<node id="Kevin Teque">
+  <data key="d0">8</data>
+</node>
+<node id="RR | BigButtJacksonPR">
+  <data key="d0">8</data>
+</node>
+<node id="STR | JCxF | Deznere">
+  <data key="d0">15</data>
+</node>
+<node id="REJECT Beast | | DAIGO">
+  <data key="d0">8</data>
+</node>
+<node id="Skeletor">
+  <data key="d0">10</data>
+</node>
+<node id="Pickle Stein">
+  <data key="d0">5</data>
+</node>
+<node id="StruggleBus | Poverty Barn">
+  <data key="d0">17</data>
+</node>
+<node id="KINGMAN">
+  <data key="d0">2</data>
+</node>
+<node id="RSSJ | BlackSamuraiX">
+  <data key="d0">8</data>
+</node>
+<node id="lizardman">
+  <data key="d0">3</data>
+</node>
+<node id="Chopa">
+  <data key="d0">19</data>
+</node>
+<node id="BlueBit">
+  <data key="d0">8</data>
+</node>
+<node id="Twis | vWsym">
+  <data key="d0">13</data>
+</node>
+<node id="WLA | Maul">
+  <data key="d0">19</data>
+</node>
+<node id="King of Bums">
+  <data key="d0">24</data>
+</node>
+<node id="JaMarvelous">
+  <data key="d0">11</data>
+</node>
+<node id="Bigsneak">
+  <data key="d0">0</data>
+</node>
+<node id="Dual Kevin">
+  <data key="d0">0</data>
+</node>
+<node id="Hit Box | Docta Afrikan.EX">
+  <data key="d0">17</data>
+</node>
+<node id="Jean-Carlo">
+  <data key="d0">11</data>
+</node>
+<node id="Za Warudo | PaPa Churro">
+  <data key="d0">4</data>
+</node>
+<node id="Kharsonist">
+  <data key="d0">16</data>
+</node>
+<node id="Omgblaze">
+  <data key="d0">0</data>
+</node>
+<node id="PCH | Earl">
+  <data key="d0">13</data>
+</node>
+<node id="GuyGuy">
+  <data key="d0">15</data>
+</node>
+<node id="Spii_D._Mikey">
+  <data key="d0">8</data>
+</node>
+<node id="GiefKid">
+  <data key="d0">24</data>
+</node>
+<node id="Air Tony">
+  <data key="d0">1</data>
+</node>
+<node id="smkybear15">
+  <data key="d0">12</data>
+</node>
+<node id="4o4 | Buddylikefriend">
+  <data key="d0">4</data>
+</node>
+<node id="FailedPacing">
+  <data key="d0">24</data>
+</node>
+<node id="Dead Generals | Nagato">
+  <data key="d0">19</data>
+</node>
+<node id="JPH">
+  <data key="d0">17</data>
+</node>
+<node id="Easter">
+  <data key="d0">24</data>
+</node>
+<node id="SmokTimb">
+  <data key="d0">17</data>
+</node>
+<node id="Shogun17">
+  <data key="d0">6</data>
+</node>
+<node id="Spills">
+  <data key="d0">4</data>
+</node>
+<node id="DZhangarang">
+  <data key="d0">16</data>
+</node>
+<node id="Sulk Hogan">
+  <data key="d0">3</data>
+</node>
+<node id="Wetkunai">
+  <data key="d0">10</data>
+</node>
+<node id="NSxC | WhiteBl4ck">
+  <data key="d0">24</data>
+</node>
+<node id="Free Palestine | Knee_Khan">
+  <data key="d0">11</data>
+</node>
+<node id="Dabuz">
+  <data key="d0">1</data>
+</node>
+<node id="4o4 | Musa">
+  <data key="d0">7</data>
+</node>
+<node id="MOUZ | Problem X">
+  <data key="d0">10</data>
+</node>
+<node id="Black Ice">
+  <data key="d0">0</data>
+</node>
+<node id="9Moons | Petrafied">
+  <data key="d0">9</data>
+</node>
+<node id="MRG | Yuto">
+  <data key="d0">8</data>
+</node>
+<node id="DiabloBison">
+  <data key="d0">22</data>
+</node>
+<node id="SR NuckleDu">
+  <data key="d0">18</data>
+</node>
+<node id="GameWanderer">
+  <data key="d0">24</data>
+</node>
+<node id="!liz | Scarecrow">
+  <data key="d0">19</data>
+</node>
+<node id="CAG/eita">
+  <data key="d0">2</data>
+</node>
+<node id="Tymier">
+  <data key="d0">8</data>
+</node>
+<node id="QAD | ChrisT">
+  <data key="d0">9</data>
+</node>
+<node id="UNDRSCORE87">
+  <data key="d0">20</data>
+</node>
+<node id="BP | Burkish">
+  <data key="d0">9</data>
+</node>
+<node id="Nintenjoe86">
+  <data key="d0">9</data>
+</node>
+<node id="DaArmy | Mataso">
+  <data key="d0">10</data>
+</node>
+<node id="Play_guy">
+  <data key="d0">15</data>
+</node>
+<node id="AaronS">
+  <data key="d0">14</data>
+</node>
+<node id="Geobraun">
+  <data key="d0">22</data>
+</node>
+<node id="ILLICIT | KUSANAGI">
+  <data key="d0">8</data>
+</node>
+<node id="BerimB0L0">
+  <data key="d0">24</data>
+</node>
+<node id="Thunder DeLangis">
+  <data key="d0">19</data>
+</node>
+<node id="Gods">
+  <data key="d0">2</data>
+</node>
+<node id="Nice1">
+  <data key="d0">10</data>
+</node>
+<node id="Madao">
+  <data key="d0">17</data>
+</node>
+<node id="xXHildyXx">
+  <data key="d0">15</data>
+</node>
+<node id="Rawbinson">
+  <data key="d0">24</data>
+</node>
+<node id="DRX | Leshar">
+  <data key="d0">0</data>
+</node>
+<node id="Zaferino">
+  <data key="d0">11</data>
+</node>
+<node id="Vesetnet">
+  <data key="d0">15</data>
+</node>
+<node id="FuyuKaki">
+  <data key="d0">2</data>
+</node>
+<node id="PLAYBBCF | Holo">
+  <data key="d0">8</data>
+</node>
+<node id="NL">
+  <data key="d0">4</data>
+</node>
+<node id="TCG">
+  <data key="d0">5</data>
+</node>
+<node id="Tide">
+  <data key="d0">18</data>
+</node>
+<node id="Tuffy">
+  <data key="d0">23</data>
+</node>
+<node id="DeadlyHero">
+  <data key="d0">17</data>
+</node>
+<node id="Brian_F">
+  <data key="d0">12</data>
+</node>
+<node id="Xisin">
+  <data key="d0">9</data>
+</node>
+<node id="Honorable">
+  <data key="d0">24</data>
+</node>
+<node id="4HM | ONIONBUBS">
+  <data key="d0">14</data>
+</node>
+<node id="Yak Spiker">
+  <data key="d0">13</data>
+</node>
+<node id="Frosty">
+  <data key="d0">18</data>
+</node>
+<node id="Z10 | ElChakotay">
+  <data key="d0">21</data>
+</node>
+<node id="MAMMU | NoGoodCitizen">
+  <data key="d0">14</data>
+</node>
+<node id="Rylar">
+  <data key="d0">16</data>
+</node>
+<node id="TALON | Book">
+  <data key="d0">22</data>
+</node>
+<node id="MDJS-E | FReZZer">
+  <data key="d0">4</data>
+</node>
+<node id="Mr Mostafles">
+  <data key="d0">3</data>
+</node>
+<node id="wtfalcon">
+  <data key="d0">3</data>
+</node>
+<node id="@WheelsFGC">
+  <data key="d0">18</data>
+</node>
+<node id="G8S | Sahara.">
+  <data key="d0">8</data>
+</node>
+<node id="trifmoney">
+  <data key="d0">0</data>
+</node>
+<node id="GG | Keetro">
+  <data key="d0">15</data>
+</node>
+<node id="Machete24X">
+  <data key="d0">4</data>
+</node>
+<node id="NeatOz">
+  <data key="d0">16</data>
+</node>
+<node id="CAG | Fenritti">
+  <data key="d0">7</data>
+</node>
+<node id="Squall">
+  <data key="d0">17</data>
+</node>
+<node id="YOGAN | UniversalWolf21">
+  <data key="d0">17</data>
+</node>
+<node id="FAV | moke">
+  <data key="d0">11</data>
+</node>
+<node id="KSG | Zhen">
+  <data key="d0">0</data>
+</node>
+<node id="Johnny Volcano">
+  <data key="d0">9</data>
+</node>
+<node id="ZETA | Hikaru">
+  <data key="d0">24</data>
+</node>
+<node id="OkiBang | ElSeco">
+  <data key="d0">7</data>
+</node>
+<node id="REJECT | Fuudo">
+  <data key="d0">3</data>
+</node>
+<node id="ZETA | Higuchi">
+  <data key="d0">3</data>
+</node>
+<node id="HologramMikeRoss">
+  <data key="d0">17</data>
+</node>
+<node id="Pilch">
+  <data key="d0">7</data>
+</node>
+<node id="Chime">
+  <data key="d0">13</data>
+</node>
+<node id="FZERO | LAB | Palaka!">
+  <data key="d0">4</data>
+</node>
+<node id="Buddins | Raven is Raw">
+  <data key="d0">14</data>
+</node>
+<node id="Green Hayato">
+  <data key="d0">5</data>
+</node>
+<node id="Kanme | Docmorales24">
+  <data key="d0">17</data>
+</node>
+<node id="TKC | Robbie V.">
+  <data key="d0">19</data>
+</node>
+<node id="MODW | Splatoon Enjoyer">
+  <data key="d0">8</data>
+</node>
+<node id="Space Boy">
+  <data key="d0">14</data>
+</node>
+<node id="CANDIDfellow">
+  <data key="d0">5</data>
+</node>
+<node id="endless magician">
+  <data key="d0">23</data>
+</node>
+<node id="RC | Kolibri">
+  <data key="d0">24</data>
+</node>
+<node id="AFAS | Yan">
+  <data key="d0">8</data>
+</node>
+<node id="TEAMX | JCX">
+  <data key="d0">17</data>
+</node>
+<node id="KCFGC | MangoMan">
+  <data key="d0">24</data>
+</node>
+<node id="CR/PWS | Shuto">
+  <data key="d0">4</data>
+</node>
+<node id="MADHouse | Protagonist">
+  <data key="d0">1</data>
+</node>
+<node id="ONi | TNS | NeoJudai.EX">
+  <data key="d0">5</data>
+</node>
+<node id="StolenName | Slaynman">
+  <data key="d0">19</data>
+</node>
+<node id="ONIC | NYChrisG">
+  <data key="d0">23</data>
+</node>
+<node id="Rozay">
+  <data key="d0">16</data>
+</node>
+<node id="Nope">
+  <data key="d0">13</data>
+</node>
+<node id="Floral">
+  <data key="d0">4</data>
+</node>
+<node id="4o4 | MessatsuInMemphis">
+  <data key="d0">6</data>
+</node>
+<node id="END | InconsiderateRaccoon">
+  <data key="d0">17</data>
+</node>
+<node id="100T | Shine">
+  <data key="d0">23</data>
+</node>
+<node id="TheNom7">
+  <data key="d0">22</data>
+</node>
+<node id="FlashWolves | GamerBee">
+  <data key="d0">14</data>
+</node>
+<node id="Magnegro">
+  <data key="d0">14</data>
+</node>
+<node id="kepler">
+  <data key="d0">6</data>
+</node>
+<node id="K-Brad">
+  <data key="d0">16</data>
+</node>
+<node id="JKong">
+  <data key="d0">4</data>
+</node>
+<node id="Girdot">
+  <data key="d0">6</data>
+</node>
+<node id="Lion-O">
+  <data key="d0">9</data>
+</node>
+<node id="MID | Elusive">
+  <data key="d0">16</data>
+</node>
+<node id="Bad Moon | OneTrueSnorlax">
+  <data key="d0">14</data>
+</node>
+<node id="zignoe">
+  <data key="d0">20</data>
+</node>
+<node id="Help">
+  <data key="d0">2</data>
+</node>
+<node id="MOUZ | EndingWalker">
+  <data key="d0">0</data>
+</node>
+<node id="MOTHMAN">
+  <data key="d0">14</data>
+</node>
+<node id="Rahuligan">
+  <data key="d0">17</data>
+</node>
+<node id="Kusanagi">
+  <data key="d0">15</data>
+</node>
+<node id="KvGroove">
+  <data key="d0">20</data>
+</node>
+<node id="NGamer3k">
+  <data key="d0">10</data>
+</node>
+<node id="PAG | VickiViper">
+  <data key="d0">12</data>
+</node>
+<node id="TNS | Ramsey">
+  <data key="d0">20</data>
+</node>
+<node id="Romeo">
+  <data key="d0">1</data>
+</node>
+<node id="Servo">
+  <data key="d0">7</data>
+</node>
+<node id="puffa">
+  <data key="d0">19</data>
+</node>
+<node id="MattyICE774">
+  <data key="d0">13</data>
+</node>
+<node id="Arc">
+  <data key="d0">2</data>
+</node>
+<node id="Tyrant">
+  <data key="d0">8</data>
+</node>
+<node id="KFGC | Bob1299">
+  <data key="d0">20</data>
+</node>
+<node id="SYNTHDC | Ricky S">
+  <data key="d0">12</data>
+</node>
+<node id="RB">
+  <data key="d0">9</data>
+</node>
+<node id="SKODEN">
+  <data key="d0">20</data>
+</node>
+<node id="OCO/Weird/UMN | gurt: Yo">
+  <data key="d0">9</data>
+</node>
+<node id="ohiofgc.com | corjam">
+  <data key="d0">16</data>
+</node>
+<node id="bug club | mynameisfury">
+  <data key="d0">11</data>
+</node>
+<node id="Element">
+  <data key="d0">6</data>
+</node>
+<node id="TSE | Alpho King">
+  <data key="d0">0</data>
+</node>
+<node id="BBW | Inari">
+  <data key="d0">15</data>
+</node>
+<node id="Shinjoni">
+  <data key="d0">23</data>
+</node>
+<node id="SR | JAK">
+  <data key="d0">0</data>
+</node>
+<node id="Spyda">
+  <data key="d0">6</data>
+</node>
+<node id="ZJZ">
+  <data key="d0">15</data>
+</node>
+<node id="Tacoz">
+  <data key="d0">17</data>
+</node>
+<node id="SS熊本 | cosa">
+  <data key="d0">17</data>
+</node>
+<node id="caz">
+  <data key="d0">3</data>
+</node>
+<node id="Red Bull | CR | Bonchan">
+  <data key="d0">2</data>
+</node>
+<node id="FAV | Ryukichi">
+  <data key="d0">18</data>
+</node>
+<node id="GGA | Shady">
+  <data key="d0">17</data>
+</node>
+<node id="Shel">
+  <data key="d0">9</data>
+</node>
+<node id="TwisMinds | NoahTheProdigy">
+  <data key="d0">8</data>
+</node>
+<node id="PAR | ScrawtVermillion">
+  <data key="d0">7</data>
+</node>
+<node id="TSE | Dasmir">
+  <data key="d0">20</data>
+</node>
+<node id="Great Fireball">
+  <data key="d0">11</data>
+</node>
+<node id="The Block | ArmoredDeath">
+  <data key="d0">19</data>
+</node>
+<node id="Mayuun-">
+  <data key="d0">1</data>
+</node>
+<node id="CLC | Wildpanda99">
+  <data key="d0">6</data>
+</node>
+<node id="IPG | Spirit">
+  <data key="d0">24</data>
+</node>
+<node id="585Z | HecticION">
+  <data key="d0">9</data>
+</node>
+<node id="RTS! | Booce_Lee">
+  <data key="d0">17</data>
+</node>
+<node id="Rock-Man">
+  <data key="d0">16</data>
+</node>
+<node id="Species">
+  <data key="d0">10</data>
+</node>
+<node id="Alex Smith">
+  <data key="d0">20</data>
+</node>
+<node id="CR | Tachikawa">
+  <data key="d0">9</data>
+</node>
+<node id="Triumph">
+  <data key="d0">10</data>
+</node>
+<node id="RiB | Hollow">
+  <data key="d0">1</data>
+</node>
+<node id="NikofTime">
+  <data key="d0">0</data>
+</node>
+<edge source="ICEbox | Dinlee" target="RiB | Hollow" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463479</data>
+</edge>
+<edge source="ICEbox | Dinlee" target="Shinjoni" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463471</data>
+</edge>
+<edge source="Liquid | Nephew" target="RB" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476342</data>
+</edge>
+<edge source="Liquid | Nephew" target="PM | Kuma" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476340</data>
+</edge>
+<edge source="Liquid | Nephew" target="Triumph" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476273</data>
+</edge>
+<edge source="Liquid | Nephew" target="RTS! | SpencertheSavage" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89428148</data>
+</edge>
+<edge source="T1 | Oil King" target="Romeo" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463425</data>
+</edge>
+<edge source="T1 | Oil King" target="MADHouse | Protagonist" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89429102</data>
+</edge>
+<edge source="iDom" target="ZETA | Momochi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484649</data>
+</edge>
+<edge source="iDom" target="FAV | moke" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484646</data>
+</edge>
+<edge source="iDom" target="Thunder DeLangis" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484640</data>
+</edge>
+<edge source="iDom" target="The Block | ArmoredDeath" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89384822</data>
+</edge>
+<edge source="WBG RB | MenaRD" target="VARREL | Mago" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515544</data>
+</edge>
+<edge source="WBG RB | MenaRD" target="Kusanagi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476489</data>
+</edge>
+<edge source="WBG RB | MenaRD" target="Samurai" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476487</data>
+</edge>
+<edge source="WBG RB | MenaRD" target="kepler" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476482</data>
+</edge>
+<edge source="WBG RB | MenaRD" target="4o4 | MessatsuInMemphis" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440090</data>
+</edge>
+<edge source="YungTate" target="Threeyes" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476544</data>
+</edge>
+<edge source="YungTate" target="SRM | Dougie" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476539</data>
+</edge>
+<edge source="YungTate" target="ONi | TNS | NeoJudai.EX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89368942</data>
+</edge>
+<edge source="VARREL | Mago" target="ZETA | Yamaguchi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502231</data>
+</edge>
+<edge source="VARREL | Mago" target="Z10 | ElChakotay" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89502225</data>
+</edge>
+<edge source="VARREL | Mago" target="CAG/eita" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476422</data>
+</edge>
+<edge source="VARREL | Mago" target="Xisin" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476420</data>
+</edge>
+<edge source="VARREL | Mago" target="9Moons | Petrafied" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476352</data>
+</edge>
+<edge source="VARREL | Mago" target="XxHawkTuahxX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398223</data>
+</edge>
+<edge source="VARREL | Mago" target="Johnny Volcano" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398219</data>
+</edge>
+<edge source="VARREL | Mago" target="585Z | HecticION" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398211</data>
+</edge>
+<edge source="UA | Bass" target="trifmoney" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484699</data>
+</edge>
+<edge source="UA | Bass" target="Great Fireball" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376566</data>
+</edge>
+<edge source="Toph The Goat" target="JaMarvelous" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484780</data>
+</edge>
+<edge source="Toph The Goat" target="Omgblaze" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89368558</data>
+</edge>
+<edge source="Toph The Goat" target="trifmoney" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89368556</data>
+</edge>
+<edge source="RRQ | Takamura" target="ILLICIT | KUSANAGI" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89508829</data>
+</edge>
+<edge source="RRQ | Takamura" target="Zaferino" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484711</data>
+</edge>
+<edge source="RRQ | Takamura" target="Ryan Hart" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484709</data>
+</edge>
+<edge source="RRQ | Takamura" target="MID | Elusive" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484642</data>
+</edge>
+<edge source="RRQ | Takamura" target="StreetDemons | HereToHaveFunn" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451028</data>
+</edge>
+<edge source="Riddles" target="OkiBang | ElSeco" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463346</data>
+</edge>
+<edge source="Riddles" target="Pilch" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89428723</data>
+</edge>
+<edge source="GG | Xian" target="Zaferino" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484648</data>
+</edge>
+<edge source="GG | Xian" target="StolenName | Slaynman" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484644</data>
+</edge>
+<edge source="GG | Xian" target="Ohgrr" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452033</data>
+</edge>
+<edge source="Olipop" target="MH | KOREYTHEDRAGON" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476538</data>
+</edge>
+<edge source="Olipop" target="NGamer3k" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476530</data>
+</edge>
+<edge source="Threeyes" target="King Scrub" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476540</data>
+</edge>
+<edge source="Threeyes" target="Play_guy" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89362223</data>
+</edge>
+<edge source="Threeyes" target="Arc" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89362214</data>
+</edge>
+<edge source="Falcons | Chris Wong" target="mozz" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463405</data>
+</edge>
+<edge source="Falcons | Chris Wong" target="Rawbinson" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463398</data>
+</edge>
+<edge source="Falcons | Chris Wong" target="KCFGC | MangoMan" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89430355</data>
+</edge>
+<edge source="DFM/PWS | GO1" target="Virtus.Pro | Psycho" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515556</data>
+</edge>
+<edge source="DFM/PWS | GO1" target="iDom" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89508777</data>
+</edge>
+<edge source="DFM/PWS | GO1" target="GG | Xian" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484650</data>
+</edge>
+<edge source="DFM/PWS | GO1" target="RRQ | Takamura" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484647</data>
+</edge>
+<edge source="DFM/PWS | GO1" target="Brian_F" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484641</data>
+</edge>
+<edge source="DFM/PWS | GO1" target="SYNTHDC | Ricky S" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89397726</data>
+</edge>
+<edge source="Bandits | Caba" target="DaFeetLee" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476268</data>
+</edge>
+<edge source="Bandits | Caba" target="IG | NJIT | Ortega" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89359414</data>
+</edge>
+<edge source="MTS | Wanheda" target="Sulk Hogan" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463481</data>
+</edge>
+<edge source="MTS | Wanheda" target="FSP | DJ Nova" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89371052</data>
+</edge>
+<edge source="Samurai" target="REJECT Beast | | DAIGO" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476483</data>
+</edge>
+<edge source="Samurai" target="BlueBit" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451680</data>
+</edge>
+<edge source="MH | KOREYTHEDRAGON" target="Shogun17" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89375989</data>
+</edge>
+<edge source="MH | KOREYTHEDRAGON" target="Spyda" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89375985</data>
+</edge>
+<edge source="StreetDemons | HereToHaveFunn" target="Rock-Man" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451093</data>
+</edge>
+<edge source="StreetDemons | HereToHaveFunn" target="Rozay" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451090</data>
+</edge>
+<edge source="hutch00" target="Johnny Volcano" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476321</data>
+</edge>
+<edge source="hutch00" target="Geobraun" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89360274</data>
+</edge>
+<edge source="MCFGC | harms" target="Liquid | Nephew" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502229</data>
+</edge>
+<edge source="MCFGC | harms" target="100T | Shine" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463348</data>
+</edge>
+<edge source="MCFGC | harms" target="REJECT | Akira" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463341</data>
+</edge>
+<edge source="MCFGC | harms" target="wtfalcon" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89375514</data>
+</edge>
+<edge source="MCFGC | harms" target="WLF | KillJoy" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89375505</data>
+</edge>
+<edge source="DK | LegendaryJiggXV" target="wtfalcon" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463469</data>
+</edge>
+<edge source="IBUSHIGIN | Yanai" target="GG | Xian" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89508826</data>
+</edge>
+<edge source="IBUSHIGIN | Yanai" target="REJECT Beast | | DAIGO" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476549</data>
+</edge>
+<edge source="IBUSHIGIN | Yanai" target="GuyGuy" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476546</data>
+</edge>
+<edge source="IBUSHIGIN | Yanai" target="Threeyes" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476476</data>
+</edge>
+<edge source="IBUSHIGIN | Yanai" target="BBW | Inari" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89362222</data>
+</edge>
+<edge source="AG/PWS | Qiuqiu" target="Kanme | Tao" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476418</data>
+</edge>
+<edge source="AG/PWS | Qiuqiu" target="Mono" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476349</data>
+</edge>
+<edge source="AG/PWS | Qiuqiu" target="TheNom7" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89368077</data>
+</edge>
+<edge source="LetalisVenator" target="Raize" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463388</data>
+</edge>
+<edge source="ZETA | Yamaguchi" target="TNS | Ramsey" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89502224</data>
+</edge>
+<edge source="ZETA | Yamaguchi" target="T1 | Oil King" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463429</data>
+</edge>
+<edge source="ZETA | Yamaguchi" target="IPG | Spirit" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463424</data>
+</edge>
+<edge source="ZETA | Yamaguchi" target="Easter" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440733</data>
+</edge>
+<edge source="Karmine Corp | Kilzyou" target="NSxC | WhiteBl4ck" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502227</data>
+</edge>
+<edge source="Karmine Corp | Kilzyou" target="AG/PWS | Qiuqiu" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476356</data>
+</edge>
+<edge source="Karmine Corp | Kilzyou" target="TALON | Book" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476348</data>
+</edge>
+<edge source="Karmine Corp | Kilzyou" target="hutch00" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89360277</data>
+</edge>
+<edge source="AEGIS | Mister Crimson" target="ZJZ" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476093</data>
+</edge>
+<edge source="AEGIS | Mister Crimson" target="King Scrub" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89384536</data>
+</edge>
+<edge source="REJECT ROHTOZ! | Tokido" target="FAV | moke" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515547</data>
+</edge>
+<edge source="REJECT ROHTOZ! | Tokido" target="ZETA | Yamaguchi" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463431</data>
+</edge>
+<edge source="REJECT ROHTOZ! | Tokido" target="CAG | Fenritti" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463428</data>
+</edge>
+<edge source="REJECT ROHTOZ! | Tokido" target="Servo" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463423</data>
+</edge>
+<edge source="REJECT ROHTOZ! | Tokido" target="space rat" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89429774</data>
+</edge>
+<edge source="REJECT ROHTOZ! | Tokido" target="GNT4 | Skeet" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89429770</data>
+</edge>
+<edge source="REJECT | Akira" target="GNT4 | Skeet" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463401</data>
+</edge>
+<edge source="SRM | Dougie" target="Tide" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476531</data>
+</edge>
+<edge source="DFM | Itabashi Zangief" target="Dual Kevin" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89536379</data>
+</edge>
+<edge source="DFM | Itabashi Zangief" target="Red Bull | CR | Bonchan" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89536377</data>
+</edge>
+<edge source="DFM | Itabashi Zangief" target="CR/PWS | Shuto" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515494</data>
+</edge>
+<edge source="DFM | Itabashi Zangief" target="REJECT ROHTOZ! | Tokido" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89502175</data>
+</edge>
+<edge source="DFM | Itabashi Zangief" target="Z10 | ElChakotay" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463430</data>
+</edge>
+<edge source="DFM | Itabashi Zangief" target="ILLICIT | Uriel Velorio" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463427</data>
+</edge>
+<edge source="DFM | Itabashi Zangief" target="RiB | Hollow" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463421</data>
+</edge>
+<edge source="Truly | Mangocopter" target="MID | Elusive" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484696</data>
+</edge>
+<edge source="Truly | Mangocopter" target="END | InconsiderateRaccoon" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484688</data>
+</edge>
+<edge source="Truly | Mangocopter" target="Tacoz" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376913</data>
+</edge>
+<edge source="Truly | Mangocopter" target="HologramMikeRoss" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89376849</data>
+</edge>
+<edge source="Mono" target="Machete24X" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476411</data>
+</edge>
+<edge source="Mono" target="DiabloBison" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89368078</data>
+</edge>
+<edge source="Ryan Hart" target="K-Brad" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484705</data>
+</edge>
+<edge source="Ryan Hart" target="Rahuligan" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484701</data>
+</edge>
+<edge source="keesby" target="4o4 | Buddylikefriend" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476326</data>
+</edge>
+<edge source="keesby" target="DiabloBison" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476318</data>
+</edge>
+<edge source="Weavi" target="Great Fireball" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484768</data>
+</edge>
+<edge source="Weavi" target="Jean-Carlo" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89440509</data>
+</edge>
+<edge source="DaFeetLee" target="UNDRSCORE87" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476332</data>
+</edge>
+<edge source="Truly | GalaxyBrAn" target="Shogun17" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476145</data>
+</edge>
+<edge source="Truly | GalaxyBrAn" target="CLC | Wildpanda99" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440153</data>
+</edge>
+<edge source="JCampos" target="RSSJ | BlackSamuraiX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476529</data>
+</edge>
+<edge source="Kanme | Tao" target="ThaRuffProphet" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476414</data>
+</edge>
+<edge source="Kanme | Tao" target="9Moons | Petrafied" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476408</data>
+</edge>
+<edge source="Kanme | Tao" target="Shel" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476400</data>
+</edge>
+<edge source="Street Demons | DonShark" target="GameWanderer" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376077</data>
+</edge>
+<edge source="BigMacCombo98" target="HMB | Addrak" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376533</data>
+</edge>
+<edge source="BigMacCombo98" target="Tide" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376469</data>
+</edge>
+<edge source="IGZIST | 小路KOG" target="100T | Shine" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89502222</data>
+</edge>
+<edge source="IGZIST | 小路KOG" target="Liquid | Nephew" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476278</data>
+</edge>
+<edge source="IGZIST | 小路KOG" target="SR | JAK" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476272</data>
+</edge>
+<edge source="Falcons X PWS | DCQ" target="MOUZ | EndingWalker" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89508775</data>
+</edge>
+<edge source="Falcons X PWS | DCQ" target="Squall" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484729</data>
+</edge>
+<edge source="Falcons X PWS | DCQ" target="Space Boy" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484725</data>
+</edge>
+<edge source="Falcons X PWS | DCQ" target="Toph The Goat" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484718</data>
+</edge>
+<edge source="AFAS | Chris D" target="Air Tony" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463403</data>
+</edge>
+<edge source="Zenith" target="Rylar" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89368413</data>
+</edge>
+<edge source="VARREL | Mizuha" target="RTS! | Booce_Lee" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484788</data>
+</edge>
+<edge source="VARREL | Mizuha" target="Kanme | Docmorales24" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484784</data>
+</edge>
+<edge source="VARREL | Mizuha" target="PAG | VickiViper" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484778</data>
+</edge>
+<edge source="VARREL | Mizuha" target="Rahuligan" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89384228</data>
+</edge>
+<edge source="4o4 | Pulse | CamPaine" target="DFM | John Takeuchi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476162</data>
+</edge>
+<edge source="4o4 | Pulse | CamPaine" target="Chipun | BP Amoco" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476158</data>
+</edge>
+<edge source="4o4 | Pulse | CamPaine" target="4Keya! | SMOOTHMOVES22" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476154</data>
+</edge>
+<edge source="4o4 | Pulse | CamPaine" target="Tyrant" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89362651</data>
+</edge>
+<edge source="Revilo" target="MDJS-E | FReZZer" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476330</data>
+</edge>
+<edge source="Revilo" target="TheNom7" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476322</data>
+</edge>
+<edge source="ILLICIT | Uriel Velorio" target="Honorable" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463487</data>
+</edge>
+<edge source="ILLICIT | Uriel Velorio" target="RC | Kolibri" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463420</data>
+</edge>
+<edge source="DFM | John Takeuchi" target="Wetkunai" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476095</data>
+</edge>
+<edge source="DFM | John Takeuchi" target="DaArmy | Mataso" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89429584</data>
+</edge>
+<edge source="XxHawkTuahxX" target="Geobraun" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476317</data>
+</edge>
+<edge source="XxHawkTuahxX" target="585Z | HecticION" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398287</data>
+</edge>
+<edge source="XxHawkTuahxX" target="Nintenjoe86" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398214</data>
+</edge>
+<edge source="mozz" target="Mayuun-" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463399</data>
+</edge>
+<edge source="Moe" target="Rylar" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484771</data>
+</edge>
+<edge source="Moe" target="StreetDemons | HereToHaveFunn" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451095</data>
+</edge>
+<edge source="Moe" target="ohiofgc.com | corjam" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451031</data>
+</edge>
+<edge source="Moe" target="Rock-Man" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451027</data>
+</edge>
+<edge source="2Game | Blaz" target="DFM/PWS | GO1" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515496</data>
+</edge>
+<edge source="2Game | Blaz" target="TwisMinds | NoahTheProdigy" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89508778</data>
+</edge>
+<edge source="2Game | Blaz" target="SR NuckleDu" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476102</data>
+</edge>
+<edge source="2Game | Blaz" target="MRG | Yuto" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476098</data>
+</edge>
+<edge source="2Game | Blaz" target="Chipun | BP Amoco" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476091</data>
+</edge>
+<edge source="2Game | Blaz" target="Olipop" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89367982</data>
+</edge>
+<edge source="IG | NJIT | Ortega" target="NikofTime" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476401</data>
+</edge>
+<edge source="IG | NJIT | Ortega" target="Burger Man" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89359478</data>
+</edge>
+<edge source="IG | NJIT | Ortega" target="zignoe" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89359411</data>
+</edge>
+<edge source="PM | Kuma" target="DaFeetLee" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476336</data>
+</edge>
+<edge source="PM | Kuma" target="dinotail" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476331</data>
+</edge>
+<edge source="PM | Kuma" target="Bahn Mi" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89370384</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="REJECT ROHTOZ! | Tokido" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515552</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="MOUZ | Problem X" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515546</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="ZJZ" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89508835</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="SS熊本 | cosa" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89508830</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="MRG | Yuto" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476163</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="AEGIS | Mister Crimson" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476159</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="Chime" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476155</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="Jebailey" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476148</data>
+</edge>
+<edge source="Virtus.Pro | Psycho" target="ONi | TNS | NeoJudai.EX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476140</data>
+</edge>
+<edge source="REZ | big mo" target="Frosty" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476535</data>
+</edge>
+<edge source="REZ | big mo" target="TCG" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89428532</data>
+</edge>
+<edge source="REZ | big mo" target="CANDIDfellow" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89428523</data>
+</edge>
+<edge source="King Scrub" target="PCH | Earl" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476532</data>
+</edge>
+<edge source="King Scrub" target="xXHildyXx" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89384600</data>
+</edge>
+<edge source="ThaRuffProphet" target="FZERO | LAB | Palaka!" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476407</data>
+</edge>
+<edge source="ThaRuffProphet" target="Floral" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476399</data>
+</edge>
+<edge source="GNT4 | Skeet" target="RTC | Brandon!" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463393</data>
+</edge>
+<edge source="ZETA | Momochi" target="IBUSHIGIN | Yanai" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89508833</data>
+</edge>
+<edge source="ZETA | Momochi" target="G8S | Sahara." id="0">
+  <data key="d1">2</data>
+  <data key="d2">89508827</data>
+</edge>
+<edge source="ZETA | Momochi" target="Kharsonist" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484645</data>
+</edge>
+<edge source="ZETA | Momochi" target="Ryan Hart" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484637</data>
+</edge>
+<edge source="ZETA | Momochi" target="PAG | VickiViper" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89363078</data>
+</edge>
+<edge source="KSG | Vxbao" target="Space Boy" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484790</data>
+</edge>
+<edge source="KSG | Vxbao" target="Hit Box | Docta Afrikan.EX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484786</data>
+</edge>
+<edge source="KSG | Vxbao" target="Kanme | Docmorales24" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484719</data>
+</edge>
+<edge source="Ohgrr" target="WLA | Maul" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452097</data>
+</edge>
+<edge source="Ohgrr" target="puffa" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452030</data>
+</edge>
+<edge source="space rat" target="OkiBang | ElSeco" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463404</data>
+</edge>
+<edge source="space rat" target="Mr Mostafles" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463397</data>
+</edge>
+<edge source="space rat" target="FSP | DJ Nova" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463389</data>
+</edge>
+<edge source="rave" target="CAG | Fenritti" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463490</data>
+</edge>
+<edge source="rave" target="MTS | Wanheda" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463486</data>
+</edge>
+<edge source="rave" target="4H Tim" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463482</data>
+</edge>
+<edge source="rave" target="Raize" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89359898</data>
+</edge>
+<edge source="Skeezer" target="lizardman" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89369037</data>
+</edge>
+<edge source="FREE PALESTINE | Zaidi" target="endless magician" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89385538</data>
+</edge>
+<edge source="4H Tim" target="Tuffy" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463474</data>
+</edge>
+<edge source="4H Tim" target="Spright" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89428786</data>
+</edge>
+<edge source="広島TEAM iXA/HT | ACQUA" target="ILLICIT | Uriel Velorio" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463491</data>
+</edge>
+<edge source="広島TEAM iXA/HT | ACQUA" target="4o4 | Musa" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463488</data>
+</edge>
+<edge source="広島TEAM iXA/HT | ACQUA" target="rave" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463418</data>
+</edge>
+<edge source="4Keya! | SMOOTHMOVES22" target="BlueBit" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476146</data>
+</edge>
+<edge source="Chipun | BP Amoco" target="Truly | GalaxyBrAn" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476153</data>
+</edge>
+<edge source="Chipun | BP Amoco" target="TSE | Alpho King" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89367983</data>
+</edge>
+<edge source="Kevin Teque" target="4o4 | MessatsuInMemphis" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476156</data>
+</edge>
+<edge source="Kevin Teque" target="RR | BigButtJacksonPR" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476150</data>
+</edge>
+<edge source="Kevin Teque" target="PLAYBBCF | Holo" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476142</data>
+</edge>
+<edge source="RR | BigButtJacksonPR" target="JCampos" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398634</data>
+</edge>
+<edge source="STR | JCxF | Deznere" target="BBW | Inari" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476143</data>
+</edge>
+<edge source="REJECT Beast | | DAIGO" target="Element" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476545</data>
+</edge>
+<edge source="REJECT Beast | | DAIGO" target="kepler" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476541</data>
+</edge>
+<edge source="REJECT Beast | | DAIGO" target="Tymier" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476533</data>
+</edge>
+<edge source="REJECT Beast | | DAIGO" target="PLAYBBCF | Holo" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451679</data>
+</edge>
+<edge source="REJECT Beast | | DAIGO" target="MODW | Splatoon Enjoyer" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451667</data>
+</edge>
+<edge source="Skeletor" target="Help" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476406</data>
+</edge>
+<edge source="Skeletor" target="RTS! | SpencertheSavage" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476398</data>
+</edge>
+<edge source="Skeletor" target="Bahn Mi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89370453</data>
+</edge>
+<edge source="Skeletor" target="Species" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89370383</data>
+</edge>
+<edge source="Pickle Stein" target="YungTate" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476548</data>
+</edge>
+<edge source="Pickle Stein" target="REZ | big mo" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476481</data>
+</edge>
+<edge source="Pickle Stein" target="Virtus.Pro | Psycho" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89428531</data>
+</edge>
+<edge source="KINGMAN" target="Weird | sans." id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476319</data>
+</edge>
+<edge source="BlueBit" target="Spii_D._Mikey" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451742</data>
+</edge>
+<edge source="Twis | vWsym" target="MOTHMAN" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89508832</data>
+</edge>
+<edge source="Twis | vWsym" target="KSG | Vxbao" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89508824</data>
+</edge>
+<edge source="Twis | vWsym" target="FAV | Ryukichi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476101</data>
+</edge>
+<edge source="Twis | vWsym" target="Chime" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476097</data>
+</edge>
+<edge source="Twis | vWsym" target="Yak Spiker" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452200</data>
+</edge>
+<edge source="JaMarvelous" target="bug club | mynameisfury" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484772</data>
+</edge>
+<edge source="Dual Kevin" target="2Game | Blaz" id="0">
+  <data key="d1">3</data>
+  <data key="d2">89536378</data>
+</edge>
+<edge source="Dual Kevin" target="Falcons X PWS | DCQ" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515495</data>
+</edge>
+<edge source="Dual Kevin" target="WBG RB | MenaRD" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89508776</data>
+</edge>
+<edge source="Dual Kevin" target="ILLICIT | KUSANAGI" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476488</data>
+</edge>
+<edge source="Dual Kevin" target="IBUSHIGIN | Yanai" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476484</data>
+</edge>
+<edge source="Dual Kevin" target="YungTate" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476477</data>
+</edge>
+<edge source="Hit Box | Docta Afrikan.EX" target="SmokTimb" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484782</data>
+</edge>
+<edge source="Hit Box | Docta Afrikan.EX" target="SYNTHDC | Ricky S" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484774</data>
+</edge>
+<edge source="Hit Box | Docta Afrikan.EX" target="DeadlyHero" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451476</data>
+</edge>
+<edge source="Kharsonist" target="K-Brad" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484638</data>
+</edge>
+<edge source="PCH | Earl" target="MattyICE774" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89452263</data>
+</edge>
+<edge source="GuyGuy" target="REZ | big mo" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476542</data>
+</edge>
+<edge source="GuyGuy" target="Vesetnet" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476536</data>
+</edge>
+<edge source="GuyGuy" target="STR | JCxF | Deznere" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398830</data>
+</edge>
+<edge source="Spii_D._Mikey" target="AFAS | Yan" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451740</data>
+</edge>
+<edge source="GiefKid" target="AFAS | Chris D" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463407</data>
+</edge>
+<edge source="GiefKid" target="Skeezer" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463402</data>
+</edge>
+<edge source="GiefKid" target="Street Demons | DonShark" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463394</data>
+</edge>
+<edge source="Air Tony" target="Dabuz" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463395</data>
+</edge>
+<edge source="Air Tony" target="Spins | Unshorn" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89385703</data>
+</edge>
+<edge source="Air Tony" target="Rekterio" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89385633</data>
+</edge>
+<edge source="4o4 | Buddylikefriend" target="Floral" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89439307</data>
+</edge>
+<edge source="4o4 | Buddylikefriend" target="Za Warudo | PaPa Churro" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89439301</data>
+</edge>
+<edge source="Dead Generals | Nagato" target="!liz | Scarecrow" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484777</data>
+</edge>
+<edge source="Dead Generals | Nagato" target="Ohgrr" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484769</data>
+</edge>
+<edge source="JPH" target="YOGAN | UniversalWolf21" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451546</data>
+</edge>
+<edge source="Easter" target="King of Bums" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440797</data>
+</edge>
+<edge source="SmokTimb" target="ohiofgc.com | corjam" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484775</data>
+</edge>
+<edge source="Wetkunai" target="NGamer3k" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89429585</data>
+</edge>
+<edge source="NSxC | WhiteBl4ck" target="rave" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463492</data>
+</edge>
+<edge source="NSxC | WhiteBl4ck" target="T1 | Oil King" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463489</data>
+</edge>
+<edge source="NSxC | WhiteBl4ck" target="ICEbox | Dinlee" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463485</data>
+</edge>
+<edge source="NSxC | WhiteBl4ck" target="RC | Kolibri" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463480</data>
+</edge>
+<edge source="NSxC | WhiteBl4ck" target="caz" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463472</data>
+</edge>
+<edge source="Free Palestine | Knee_Khan" target="MAMMU | NoGoodCitizen" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484695</data>
+</edge>
+<edge source="4o4 | Musa" target="Servo" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463484</data>
+</edge>
+<edge source="4o4 | Musa" target="Pilch" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463478</data>
+</edge>
+<edge source="4o4 | Musa" target="PAR | ScrawtVermillion" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89396414</data>
+</edge>
+<edge source="MOUZ | Problem X" target="CR | Tachikawa" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476280</data>
+</edge>
+<edge source="MOUZ | Problem X" target="Bandits | Caba" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476276</data>
+</edge>
+<edge source="MOUZ | Problem X" target="PM | Kuma" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476269</data>
+</edge>
+<edge source="MRG | Yuto" target="Kevin Teque" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476160</data>
+</edge>
+<edge source="MRG | Yuto" target="4o4 | Pulse | CamPaine" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476090</data>
+</edge>
+<edge source="MRG | Yuto" target="RSSJ | BlackSamuraiX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89362650</data>
+</edge>
+<edge source="SR NuckleDu" target="AEGIS | Mister Crimson" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476099</data>
+</edge>
+<edge source="SR NuckleDu" target="@WheelsFGC" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476092</data>
+</edge>
+<edge source="!liz | Scarecrow" target="TKC | Robbie V." id="0">
+  <data key="d1">1</data>
+  <data key="d2">89397441</data>
+</edge>
+<edge source="CAG/eita" target="Nice1" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476419</data>
+</edge>
+<edge source="CAG/eita" target="Help" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476354</data>
+</edge>
+<edge source="Tymier" target="Tyrant" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476525</data>
+</edge>
+<edge source="QAD | ChrisT" target="BP | Burkish" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476275</data>
+</edge>
+<edge source="QAD | ChrisT" target="Shel" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451294</data>
+</edge>
+<edge source="QAD | ChrisT" target="Dustyfeets" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451290</data>
+</edge>
+<edge source="QAD | ChrisT" target="WFG | ChaosDunk" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451282</data>
+</edge>
+<edge source="UNDRSCORE87" target="KFGC | Bob1299" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476324</data>
+</edge>
+<edge source="UNDRSCORE87" target="KvGroove" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89450826</data>
+</edge>
+<edge source="BP | Burkish" target="keesby" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476333</data>
+</edge>
+<edge source="BP | Burkish" target="XxHawkTuahxX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476325</data>
+</edge>
+<edge source="BP | Burkish" target="Xisin" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451295</data>
+</edge>
+<edge source="Play_guy" target="GG | Keetro" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476139</data>
+</edge>
+<edge source="ILLICIT | KUSANAGI" target="Element" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476485</data>
+</edge>
+<edge source="ILLICIT | KUSANAGI" target="G8S | Sahara." id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476479</data>
+</edge>
+<edge source="ILLICIT | KUSANAGI" target="4Keya! | SMOOTHMOVES22" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89385227</data>
+</edge>
+<edge source="BerimB0L0" target="ZETA | Hikaru" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463349</data>
+</edge>
+<edge source="BerimB0L0" target="Falcons | Chris Wong" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463344</data>
+</edge>
+<edge source="BerimB0L0" target="NSxC | WhiteBl4ck" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89430356</data>
+</edge>
+<edge source="Thunder DeLangis" target="UA | Bass" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484704</data>
+</edge>
+<edge source="Thunder DeLangis" target="TKC | Robbie V." id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484698</data>
+</edge>
+<edge source="Thunder DeLangis" target="Dead Generals | Nagato" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89384823</data>
+</edge>
+<edge source="Gods" target="Arc" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89439965</data>
+</edge>
+<edge source="Nice1" target="Alex Smith" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476415</data>
+</edge>
+<edge source="Nice1" target="FuyuKaki" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476410</data>
+</edge>
+<edge source="Nice1" target="Species" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476402</data>
+</edge>
+<edge source="Rawbinson" target="Easter" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463390</data>
+</edge>
+<edge source="Rawbinson" target="GameWanderer" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376147</data>
+</edge>
+<edge source="DRX | Leshar" target="DFM | Itabashi Zangief" id="0">
+  <data key="d1">3</data>
+  <data key="d2">89536380</data>
+</edge>
+<edge source="DRX | Leshar" target="DFM | Itabashi Zangief" id="1">
+  <data key="d1">1</data>
+  <data key="d2">89536381</data>
+</edge>
+<edge source="DRX | Leshar" target="Dual Kevin" id="0">
+  <data key="d1">3</data>
+  <data key="d2">89536395</data>
+</edge>
+<edge source="DRX | Leshar" target="MOUZ | EndingWalker" id="0">
+  <data key="d1">3</data>
+  <data key="d2">89536394</data>
+</edge>
+<edge source="DRX | Leshar" target="Red Bull | CR | Bonchan" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89536393</data>
+</edge>
+<edge source="DRX | Leshar" target="DFM/PWS | GO1" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89536391</data>
+</edge>
+<edge source="DRX | Leshar" target="Falcons X PWS | DCQ" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515557</data>
+</edge>
+<edge source="DRX | Leshar" target="ZETA | Higuchi" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515553</data>
+</edge>
+<edge source="DRX | Leshar" target="ZETA | Momochi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515548</data>
+</edge>
+<edge source="DRX | Leshar" target="KSG | Zhen" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476361</data>
+</edge>
+<edge source="DRX | Leshar" target="VARREL | Mago" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476358</data>
+</edge>
+<edge source="DRX | Leshar" target="FZERO | LAB | Palaka!" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476353</data>
+</edge>
+<edge source="DRX | Leshar" target="keesby" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89430212</data>
+</edge>
+<edge source="Zaferino" target="Thunder DeLangis" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484708</data>
+</edge>
+<edge source="Zaferino" target="Free Palestine | Knee_Khan" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484643</data>
+</edge>
+<edge source="Zaferino" target="JaMarvelous" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440448</data>
+</edge>
+<edge source="Zaferino" target="Weavi" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440445</data>
+</edge>
+<edge source="Vesetnet" target="Yak Spiker" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476528</data>
+</edge>
+<edge source="FuyuKaki" target="KINGMAN" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89375271</data>
+</edge>
+<edge source="PLAYBBCF | Holo" target="MODW | Splatoon Enjoyer" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451743</data>
+</edge>
+<edge source="PLAYBBCF | Holo" target="Spii_D._Mikey" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451676</data>
+</edge>
+<edge source="NL" target="BP | Burkish" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476337</data>
+</edge>
+<edge source="NL" target="MDJS-E | FReZZer" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476270</data>
+</edge>
+<edge source="NL" target="JKong" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89375175</data>
+</edge>
+<edge source="TCG" target="CANDIDfellow" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89428594</data>
+</edge>
+<edge source="Xisin" target="Mono" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476416</data>
+</edge>
+<edge source="Xisin" target="TALON | Book" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476412</data>
+</edge>
+<edge source="Xisin" target="Sympo_" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476404</data>
+</edge>
+<edge source="Xisin" target="Dustyfeets" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451357</data>
+</edge>
+<edge source="Xisin" target="Lion-O" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451293</data>
+</edge>
+<edge source="Honorable" target="KCFGC | MangoMan" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463483</data>
+</edge>
+<edge source="Honorable" target="Romeo" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463475</data>
+</edge>
+<edge source="Honorable" target="Circa | seantendre" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463467</data>
+</edge>
+<edge source="Yak Spiker" target="Nope" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452264</data>
+</edge>
+<edge source="Yak Spiker" target="MattyICE774" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452197</data>
+</edge>
+<edge source="Frosty" target="BigMacCombo98" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476527</data>
+</edge>
+<edge source="Z10 | ElChakotay" target="広島TEAM iXA/HT | ACQUA" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463426</data>
+</edge>
+<edge source="Z10 | ElChakotay" target="MTS | Wanheda" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463419</data>
+</edge>
+<edge source="Z10 | ElChakotay" target="RTC | Brandon!" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89371051</data>
+</edge>
+<edge source="MAMMU | NoGoodCitizen" target="Omgblaze" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484687</data>
+</edge>
+<edge source="MAMMU | NoGoodCitizen" target="AaronS" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451000</data>
+</edge>
+<edge source="MDJS-E | FReZZer" target="ThaRuffProphet" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89375176</data>
+</edge>
+<edge source="@WheelsFGC" target="Green Hayato" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476152</data>
+</edge>
+<edge source="@WheelsFGC" target="BigMacCombo98" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89376471</data>
+</edge>
+<edge source="@WheelsFGC" target="HMB | Addrak" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376462</data>
+</edge>
+<edge source="G8S | Sahara." target="Pickle Stein" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476550</data>
+</edge>
+<edge source="G8S | Sahara." target="Samurai" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476547</data>
+</edge>
+<edge source="G8S | Sahara." target="Olipop" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476543</data>
+</edge>
+<edge source="G8S | Sahara." target="JCampos" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476537</data>
+</edge>
+<edge source="G8S | Sahara." target="Kevin Teque" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89385228</data>
+</edge>
+<edge source="trifmoney" target="4HM | ONIONBUBS" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484691</data>
+</edge>
+<edge source="Machete24X" target="JKong" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476403</data>
+</edge>
+<edge source="Machete24X" target="Za Warudo | PaPa Churro" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89439370</data>
+</edge>
+<edge source="CAG | Fenritti" target="4o4 | Musa" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463422</data>
+</edge>
+<edge source="CAG | Fenritti" target="LetalisVenator" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89396413</data>
+</edge>
+<edge source="Squall" target="KSG | Vxbao" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484726</data>
+</edge>
+<edge source="Squall" target="VARREL | Mizuha" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484720</data>
+</edge>
+<edge source="Squall" target="TEAMX | JCX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89384229</data>
+</edge>
+<edge source="FAV | moke" target="RRQ | Takamura" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89508834</data>
+</edge>
+<edge source="FAV | moke" target="Kusanagi" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89508828</data>
+</edge>
+<edge source="FAV | moke" target="TEAMX | JCX" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484710</data>
+</edge>
+<edge source="FAV | moke" target="Buddins | Raven is Raw" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484706</data>
+</edge>
+<edge source="FAV | moke" target="UA | Bass" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484639</data>
+</edge>
+<edge source="FAV | moke" target="bug club | mynameisfury" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376565</data>
+</edge>
+<edge source="KSG | Zhen" target="iDom" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515543</data>
+</edge>
+<edge source="KSG | Zhen" target="Karmine Corp | Kilzyou" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502232</data>
+</edge>
+<edge source="KSG | Zhen" target="広島TEAM iXA/HT | ACQUA" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502226</data>
+</edge>
+<edge source="KSG | Zhen" target="CAG/eita" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476359</data>
+</edge>
+<edge source="KSG | Zhen" target="TSE | Dasmir" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476355</data>
+</edge>
+<edge source="ZETA | Hikaru" target="PAR | ScrawtVermillion" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463413</data>
+</edge>
+<edge source="ZETA | Hikaru" target="GiefKid" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463411</data>
+</edge>
+<edge source="ZETA | Hikaru" target="mozz" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463343</data>
+</edge>
+<edge source="ZETA | Hikaru" target="Honorable" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89396261</data>
+</edge>
+<edge source="OkiBang | ElSeco" target="LetalisVenator" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463396</data>
+</edge>
+<edge source="OkiBang | ElSeco" target="4H Tim" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89428724</data>
+</edge>
+<edge source="OkiBang | ElSeco" target="Spright" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89428715</data>
+</edge>
+<edge source="REJECT | Fuudo" target="ZETA | Higuchi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502173</data>
+</edge>
+<edge source="REJECT | Fuudo" target="BerimB0L0" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463352</data>
+</edge>
+<edge source="REJECT | Fuudo" target="Riddles" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463350</data>
+</edge>
+<edge source="REJECT | Fuudo" target="Mr Mostafles" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463345</data>
+</edge>
+<edge source="REJECT | Fuudo" target="DK | LegendaryJiggXV" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440281</data>
+</edge>
+<edge source="ZETA | Higuchi" target="Twis | vWsym" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515549</data>
+</edge>
+<edge source="ZETA | Higuchi" target="MCFGC | harms" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463351</data>
+</edge>
+<edge source="ZETA | Higuchi" target="ONIC | NYChrisG" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463347</data>
+</edge>
+<edge source="ZETA | Higuchi" target="Skeezer" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463340</data>
+</edge>
+<edge source="ZETA | Higuchi" target="caz" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89369036</data>
+</edge>
+<edge source="HologramMikeRoss" target="SL | ColdWeatherr" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484692</data>
+</edge>
+<edge source="Chime" target="Play_guy" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476147</data>
+</edge>
+<edge source="Chime" target="PCH | Earl" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89452201</data>
+</edge>
+<edge source="Chime" target="Nope" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452199</data>
+</edge>
+<edge source="FZERO | LAB | Palaka!" target="Revilo" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89430213</data>
+</edge>
+<edge source="Buddins | Raven is Raw" target="Free Palestine | Knee_Khan" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484702</data>
+</edge>
+<edge source="Buddins | Raven is Raw" target="StolenName | Slaynman" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484694</data>
+</edge>
+<edge source="Buddins | Raven is Raw" target="SmokingSeabass" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484686</data>
+</edge>
+<edge source="Buddins | Raven is Raw" target="Bad Moon | OneTrueSnorlax" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89362020</data>
+</edge>
+<edge source="Green Hayato" target="TCG" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476144</data>
+</edge>
+<edge source="Kanme | Docmorales24" target="Moe" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484779</data>
+</edge>
+<edge source="Kanme | Docmorales24" target="Truly | Mangocopter" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376851</data>
+</edge>
+<edge source="TKC | Robbie V." target="Bad Moon | OneTrueSnorlax" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484690</data>
+</edge>
+<edge source="Space Boy" target="Magnegro" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484787</data>
+</edge>
+<edge source="Space Boy" target="FlashWolves | GamerBee" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484717</data>
+</edge>
+<edge source="RC | Kolibri" target="Rawbinson" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376085</data>
+</edge>
+<edge source="RC | Kolibri" target="Street Demons | DonShark" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89376082</data>
+</edge>
+<edge source="TEAMX | JCX" target="Kharsonist" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484707</data>
+</edge>
+<edge source="TEAMX | JCX" target="Truly | Mangocopter" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484703</data>
+</edge>
+<edge source="TEAMX | JCX" target="Brian_F" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484697</data>
+</edge>
+<edge source="TEAMX | JCX" target="GGA | Shady" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484689</data>
+</edge>
+<edge source="KCFGC | MangoMan" target="IPG | Spirit" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463476</data>
+</edge>
+<edge source="KCFGC | MangoMan" target="lizardman" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463468</data>
+</edge>
+<edge source="KCFGC | MangoMan" target="FailedPacing" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89430346</data>
+</edge>
+<edge source="CR/PWS | Shuto" target="MOUZ | Problem X" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89502176</data>
+</edge>
+<edge source="CR/PWS | Shuto" target="IGZIST | 小路KOG" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476281</data>
+</edge>
+<edge source="CR/PWS | Shuto" target="QAD | ChrisT" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476279</data>
+</edge>
+<edge source="CR/PWS | Shuto" target="4o4 | Buddylikefriend" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476274</data>
+</edge>
+<edge source="ONi | TNS | NeoJudai.EX" target="Green Hayato" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89368939</data>
+</edge>
+<edge source="StolenName | Slaynman" target="Chopa" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452025</data>
+</edge>
+<edge source="ONIC | NYChrisG" target="Falcons | Chris Wong" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463409</data>
+</edge>
+<edge source="ONIC | NYChrisG" target="AFAS | Chris D" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463339</data>
+</edge>
+<edge source="ONIC | NYChrisG" target="Shinjoni" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89360087</data>
+</edge>
+<edge source="Floral" target="Spills" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89439371</data>
+</edge>
+<edge source="4o4 | MessatsuInMemphis" target="Wetkunai" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476149</data>
+</edge>
+<edge source="4o4 | MessatsuInMemphis" target="Girdot" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476141</data>
+</edge>
+<edge source="4o4 | MessatsuInMemphis" target="CLC | Wildpanda99" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440087</data>
+</edge>
+<edge source="END | InconsiderateRaccoon" target="Madao" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89439873</data>
+</edge>
+<edge source="100T | Shine" target="ONIC | NYChrisG" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463412</data>
+</edge>
+<edge source="100T | Shine" target="space rat" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463408</data>
+</edge>
+<edge source="100T | Shine" target="FREE PALESTINE | Zaidi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463342</data>
+</edge>
+<edge source="FlashWolves | GamerBee" target="Toph The Goat" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484785</data>
+</edge>
+<edge source="FlashWolves | GamerBee" target="puffa" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484781</data>
+</edge>
+<edge source="FlashWolves | GamerBee" target="Buddins | Raven is Raw" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89362022</data>
+</edge>
+<edge source="Magnegro" target="Dead Generals | Nagato" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484783</data>
+</edge>
+<edge source="Magnegro" target="Weavi" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484776</data>
+</edge>
+<edge source="kepler" target="TSE | Alpho King" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476534</data>
+</edge>
+<edge source="kepler" target="Truly | GalaxyBrAn" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89440091</data>
+</edge>
+<edge source="K-Brad" target="HologramMikeRoss" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484700</data>
+</edge>
+<edge source="K-Brad" target="Zenith" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89368415</data>
+</edge>
+<edge source="K-Brad" target="DZhangarang" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89368406</data>
+</edge>
+<edge source="Girdot" target="Spyda" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89376052</data>
+</edge>
+<edge source="Lion-O" target="WFG | ChaosDunk" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451356</data>
+</edge>
+<edge source="MID | Elusive" target="Moe" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451033</data>
+</edge>
+<edge source="zignoe" target="Bigsneak" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476397</data>
+</edge>
+<edge source="zignoe" target="Burger Man" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89359404</data>
+</edge>
+<edge source="Help" target="Weird | sans." id="0">
+  <data key="d1">2</data>
+  <data key="d2">89439903</data>
+</edge>
+<edge source="Help" target="Arc" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89439898</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="2Game | Blaz" id="0">
+  <data key="d1">3</data>
+  <data key="d2">89536392</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="SR | JAK" id="0">
+  <data key="d1">3</data>
+  <data key="d2">89536390</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="REJECT | Fuudo" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515555</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="WBG RB | MenaRD" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515551</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="CR | Tachikawa" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515545</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="SS熊本 | cosa" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484730</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="MOTHMAN" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484727</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="!liz | Scarecrow" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484721</data>
+</edge>
+<edge source="MOUZ | EndingWalker" target="SmokingSeabass" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89397440</data>
+</edge>
+<edge source="MOTHMAN" target="SR NuckleDu" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89508825</data>
+</edge>
+<edge source="MOTHMAN" target="VARREL | Mizuha" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484791</data>
+</edge>
+<edge source="MOTHMAN" target="FlashWolves | GamerBee" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484789</data>
+</edge>
+<edge source="MOTHMAN" target="Magnegro" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484722</data>
+</edge>
+<edge source="MOTHMAN" target="MAMMU | NoGoodCitizen" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89450936</data>
+</edge>
+<edge source="MOTHMAN" target="4HM | ONIONBUBS" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89450932</data>
+</edge>
+<edge source="Rahuligan" target="StruggleBus | Poverty Barn" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89384292</data>
+</edge>
+<edge source="Kusanagi" target="Pickle Stein" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476486</data>
+</edge>
+<edge source="Kusanagi" target="GuyGuy" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476480</data>
+</edge>
+<edge source="Kusanagi" target="GG | Keetro" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398829</data>
+</edge>
+<edge source="PAG | VickiViper" target="smkybear15" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89363075</data>
+</edge>
+<edge source="TNS | Ramsey" target="AG/PWS | Qiuqiu" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476421</data>
+</edge>
+<edge source="TNS | Ramsey" target="TSE | Dasmir" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476417</data>
+</edge>
+<edge source="TNS | Ramsey" target="Alex Smith" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476351</data>
+</edge>
+<edge source="Romeo" target="Dabuz" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89429103</data>
+</edge>
+<edge source="Servo" target="DK | LegendaryJiggXV" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463477</data>
+</edge>
+<edge source="puffa" target="The Block | ArmoredDeath" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89484773</data>
+</edge>
+<edge source="puffa" target="Chopa" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89452094</data>
+</edge>
+<edge source="SYNTHDC | Ricky S" target="smkybear15" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484766</data>
+</edge>
+<edge source="SYNTHDC | Ricky S" target="gr8stalin's mustache!" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89397717</data>
+</edge>
+<edge source="RB" target="QAD | ChrisT" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476339</data>
+</edge>
+<edge source="RB" target="Revilo" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476335</data>
+</edge>
+<edge source="RB" target="hutch00" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476329</data>
+</edge>
+<edge source="RB" target="Kanme | Tao" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89385813</data>
+</edge>
+<edge source="ohiofgc.com | corjam" target="Zenith" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484767</data>
+</edge>
+<edge source="ohiofgc.com | corjam" target="NeatOz" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451091</data>
+</edge>
+<edge source="Element" target="MH | KOREYTHEDRAGON" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476478</data>
+</edge>
+<edge source="Element" target="Girdot" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89375990</data>
+</edge>
+<edge source="TSE | Alpho King" target="DaArmy | Mataso" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476526</data>
+</edge>
+<edge source="TSE | Alpho King" target="Black Ice" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89368045</data>
+</edge>
+<edge source="TSE | Alpho King" target="Black Ice" id="1">
+  <data key="d1">2</data>
+  <data key="d2">89367974</data>
+</edge>
+<edge source="BBW | Inari" target="Bugbear" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89362286</data>
+</edge>
+<edge source="Shinjoni" target="Circa | seantendre" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89360084</data>
+</edge>
+<edge source="SR | JAK" target="CR/PWS | Shuto" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515554</data>
+</edge>
+<edge source="SR | JAK" target="KSG | Zhen" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89515550</data>
+</edge>
+<edge source="SR | JAK" target="TwisMinds | NoahTheProdigy" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515542</data>
+</edge>
+<edge source="SR | JAK" target="MCFGC | harms" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89502233</data>
+</edge>
+<edge source="SR | JAK" target="BerimB0L0" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502228</data>
+</edge>
+<edge source="SR | JAK" target="NL" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476341</data>
+</edge>
+<edge source="SR | JAK" target="Bandits | Caba" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476338</data>
+</edge>
+<edge source="SR | JAK" target="Triumph" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476334</data>
+</edge>
+<edge source="SR | JAK" target="bug club | cubby" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476328</data>
+</edge>
+<edge source="ZJZ" target="Squall" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89508831</data>
+</edge>
+<edge source="ZJZ" target="4o4 | Pulse | CamPaine" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476164</data>
+</edge>
+<edge source="ZJZ" target="FAV | Ryukichi" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476161</data>
+</edge>
+<edge source="ZJZ" target="@WheelsFGC" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476157</data>
+</edge>
+<edge source="ZJZ" target="STR | JCxF | Deznere" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476151</data>
+</edge>
+<edge source="ZJZ" target="Vesetnet" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89384537</data>
+</edge>
+<edge source="SS熊本 | cosa" target="RTS! | Booce_Lee" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484728</data>
+</edge>
+<edge source="SS熊本 | cosa" target="SmokTimb" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484723</data>
+</edge>
+<edge source="SS熊本 | cosa" target="END | InconsiderateRaccoon" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89439809</data>
+</edge>
+<edge source="SS熊本 | cosa" target="SL | ColdWeatherr" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89439805</data>
+</edge>
+<edge source="Red Bull | CR | Bonchan" target="REJECT | Fuudo" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89515493</data>
+</edge>
+<edge source="Red Bull | CR | Bonchan" target="DRX | Leshar" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89502174</data>
+</edge>
+<edge source="Red Bull | CR | Bonchan" target="Karmine Corp | Kilzyou" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476360</data>
+</edge>
+<edge source="Red Bull | CR | Bonchan" target="TNS | Ramsey" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476357</data>
+</edge>
+<edge source="Red Bull | CR | Bonchan" target="FuyuKaki" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476350</data>
+</edge>
+<edge source="Red Bull | CR | Bonchan" target="dinotail" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89375270</data>
+</edge>
+<edge source="FAV | Ryukichi" target="Jebailey" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476096</data>
+</edge>
+<edge source="FAV | Ryukichi" target="Frosty" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89439143</data>
+</edge>
+<edge source="GGA | Shady" target="JPH" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451548</data>
+</edge>
+<edge source="Shel" target="Lion-O" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89451358</data>
+</edge>
+<edge source="TwisMinds | NoahTheProdigy" target="Twis | vWsym" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476103</data>
+</edge>
+<edge source="TwisMinds | NoahTheProdigy" target="DFM | John Takeuchi" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476100</data>
+</edge>
+<edge source="TwisMinds | NoahTheProdigy" target="RR | BigButtJacksonPR" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476094</data>
+</edge>
+<edge source="TwisMinds | NoahTheProdigy" target="Tymier" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398633</data>
+</edge>
+<edge source="PAR | ScrawtVermillion" target="Riddles" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463410</data>
+</edge>
+<edge source="PAR | ScrawtVermillion" target="REJECT | Akira" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463406</data>
+</edge>
+<edge source="PAR | ScrawtVermillion" target="FREE PALESTINE | Zaidi" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89463400</data>
+</edge>
+<edge source="TSE | Dasmir" target="Skeletor" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476413</data>
+</edge>
+<edge source="TSE | Dasmir" target="zignoe" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476405</data>
+</edge>
+<edge source="TSE | Dasmir" target="UNDRSCORE87" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89450764</data>
+</edge>
+<edge source="TSE | Dasmir" target="BomberBoy" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89450755</data>
+</edge>
+<edge source="Mayuun-" target="MADHouse | Protagonist" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89463391</data>
+</edge>
+<edge source="Mayuun-" target="Rekterio" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89385702</data>
+</edge>
+<edge source="Mayuun-" target="Spins | Unshorn" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89385632</data>
+</edge>
+<edge source="IPG | Spirit" target="GiefKid" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89440734</data>
+</edge>
+<edge source="585Z | HecticION" target="Nintenjoe86" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89398285</data>
+</edge>
+<edge source="RTS! | Booce_Lee" target="Hit Box | Docta Afrikan.EX" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89484724</data>
+</edge>
+<edge source="RTS! | Booce_Lee" target="GGA | Shady" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451484</data>
+</edge>
+<edge source="RTS! | Booce_Lee" target="YOGAN | UniversalWolf21" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89451472</data>
+</edge>
+<edge source="Alex Smith" target="IG | NJIT | Ortega" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89476409</data>
+</edge>
+<edge source="Alex Smith" target="bug club | cubby" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89386099</data>
+</edge>
+<edge source="Alex Smith" target="KFGC | Bob1299" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89386096</data>
+</edge>
+<edge source="CR | Tachikawa" target="IGZIST | 小路KOG" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502230</data>
+</edge>
+<edge source="CR | Tachikawa" target="ZETA | Hikaru" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89502223</data>
+</edge>
+<edge source="CR | Tachikawa" target="NL" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476277</data>
+</edge>
+<edge source="CR | Tachikawa" target="RB" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476271</data>
+</edge>
+<edge source="CR | Tachikawa" target="Sympo_" id="0">
+  <data key="d1">2</data>
+  <data key="d2">89385812</data>
+</edge>
+<edge source="Triumph" target="KINGMAN" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89476327</data>
+</edge>
+<edge source="Triumph" target="Nice1" id="0">
+  <data key="d1">1</data>
+  <data key="d2">89428149</data>
+</edge>
+</graph></graphml>
