@@ -5,3 +5,4 @@ pyvis
 python-louvain==0.16
 matplotlib
 seaborn
+scipy
